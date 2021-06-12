@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses Firebase for Database and Backend.
+Deployed project link: https://instagram-clone-react-7d24e.web.app/
 
 ## Available Scripts
 
